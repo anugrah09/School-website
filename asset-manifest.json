@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/School-website/static/css/main.82e8e2ed.chunk.css",
+    "main.js": "/School-website/static/js/main.d0eb0040.chunk.js",
+    "main.js.map": "/School-website/static/js/main.d0eb0040.chunk.js.map",
+    "runtime-main.js": "/School-website/static/js/runtime-main.9e576995.js",
+    "runtime-main.js.map": "/School-website/static/js/runtime-main.9e576995.js.map",
+    "static/css/2.f9a88613.chunk.css": "/School-website/static/css/2.f9a88613.chunk.css",
+    "static/js/2.ffe318a0.chunk.js": "/School-website/static/js/2.ffe318a0.chunk.js",
+    "static/js/2.ffe318a0.chunk.js.map": "/School-website/static/js/2.ffe318a0.chunk.js.map",
+    "static/js/3.9f4e8e35.chunk.js": "/School-website/static/js/3.9f4e8e35.chunk.js",
+    "static/js/3.9f4e8e35.chunk.js.map": "/School-website/static/js/3.9f4e8e35.chunk.js.map",
+    "index.html": "/School-website/index.html",
+    "static/css/2.f9a88613.chunk.css.map": "/School-website/static/css/2.f9a88613.chunk.css.map",
+    "static/css/main.82e8e2ed.chunk.css.map": "/School-website/static/css/main.82e8e2ed.chunk.css.map",
+    "static/js/2.ffe318a0.chunk.js.LICENSE.txt": "/School-website/static/js/2.ffe318a0.chunk.js.LICENSE.txt",
+    "static/media/cedric.049b07cc.webp": "/School-website/static/media/cedric.049b07cc.webp",
+    "static/media/dorms.861d8a74.jpg": "/School-website/static/media/dorms.861d8a74.jpg",
+    "static/media/draco.635d6b25.jpg": "/School-website/static/media/draco.635d6b25.jpg",
+    "static/media/dumbeldore.43725d38.jpg": "/School-website/static/media/dumbeldore.43725d38.jpg",
+    "static/media/flitwick.c8169c54.jpg": "/School-website/static/media/flitwick.c8169c54.jpg",
+    "static/media/game.a8c58890.png": "/School-website/static/media/game.a8c58890.png",
+    "static/media/gryffindor.ca25d638.jpg": "/School-website/static/media/gryffindor.ca25d638.jpg",
+    "static/media/hogwarts.00c89c0f.jpg": "/School-website/static/media/hogwarts.00c89c0f.jpg",
+    "static/media/hufflepuff.a11cc30a.jpg": "/School-website/static/media/hufflepuff.a11cc30a.jpg",
+    "static/media/logo.1cf84289.png": "/School-website/static/media/logo.1cf84289.png",
+    "static/media/logo.6ce24c58.svg": "/School-website/static/media/logo.6ce24c58.svg",
+    "static/media/minerva.eb934019.jpg": "/School-website/static/media/minerva.eb934019.jpg",
+    "static/media/potter.cd9b21e9.jpg": "/School-website/static/media/potter.cd9b21e9.jpg",
+    "static/media/ravenclaw.59744f4d.jpg": "/School-website/static/media/ravenclaw.59744f4d.jpg",
+    "static/media/slytherin.b24d4d1a.jpg": "/School-website/static/media/slytherin.b24d4d1a.jpg",
+    "static/media/snape.2c3f1d2b.jpg": "/School-website/static/media/snape.2c3f1d2b.jpg",
+    "static/media/sprout.d01078f2.jpg": "/School-website/static/media/sprout.d01078f2.jpg",
+    "static/media/triwizard.d318121b.jpg": "/School-website/static/media/triwizard.d318121b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e576995.js",
+    "static/css/2.f9a88613.chunk.css",
+    "static/js/2.ffe318a0.chunk.js",
+    "static/css/main.82e8e2ed.chunk.css",
+    "static/js/main.d0eb0040.chunk.js"
+  ]
+}
