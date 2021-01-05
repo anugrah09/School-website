@@ -1,0 +1,44 @@
+.footer{
+    /* position: fixed; */
+    font-family: 'Playfair Display', serif;
+
+    width: 100%;
+    bottom: 0%;
+    height: 60px;
+    background-color: #FDC82F;
+    color: black;
+    user-select: none;
+}
+.copyright{
+    position: relative;
+    top: -2px;
+    font-size: 20px;
+    /* margin-top: 10px; */
+    /* padding: 15px; */
+
+}
+.curse{
+    position: relative;
+    top: 5px;
+    font-size: 35px;
+    color: black;
+}
+.contact{
+    position: relative;
+    left: 52%;
+    top: -5px;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+.privacy{
+    position: relative;
+    left: 64%;
+    top: -5px;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+.contact:hover , .privacy:hover{
+    color: black;
+}

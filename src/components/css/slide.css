@@ -1,0 +1,64 @@
+.about{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+}
+.photo{
+    width: 20%;
+    height: 250px;
+    border-radius: 50%;
+}
+.photo:hover{
+    transform: scale(1.05);
+    transition: transform .5s ;
+}
+.about-us{
+    color: white;
+    font-size: 25px;
+    width: 73%;
+    margin-left: 25px;
+}
+.readmore{
+    border: 1px solid #FDC82F;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+  }
+  .btn1{
+    color: #FDC82F;
+    text-decoration: none;
+  }
+  .btn1:hover{
+    background-color: #FDC82F;
+    color: black;
+  }
+  .readmore::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: #FDC82F;
+    z-index: -1;
+    transition: 0.8s;overflow: hidden;
+  }
+  .btn1::before{
+    top: 0;
+    border-radius: 0 0 50% 50%;
+  }
+  .btn1:hover::before{
+    height: 180%;
+  }
+
+.btn2{
+    margin-top: 100px;
+    margin-left: 150px;
+    font-size: 25px;
+    cursor: none;
+}

@@ -1,0 +1,45 @@
+.life{
+    height: 500px;
+    width: 20%;
+    margin: 31px;
+}
+.life-compiled{
+    display: flex;
+    margin-top: 40px;
+}
+.card-img-top{
+    width: 100%;
+    height: 300px
+}
+.card-title{
+    color: #FDC82F;
+    color: 20px;
+    font-family: 'Playfair Display', serif;
+}
+.card-text{
+    color: white;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+}
+.card-body:hover{
+    background-color: #FDC82F;
+}
+.card-body:hover .card-title{
+    color: black;
+}
+.life-btn:hover{
+    background-color: black;
+    color:#FDC82F ;
+    
+}
+.card-body:hover .life-btn{
+    border: 2px solid black;
+    color: white;
+}
+.our-professor{
+    margin-top: 110px;
+    font-weight: 100px;
+    font-size: 45px;
+    color: #FDC82F;
+    font-family: 'Playfair Display', serif;
+}
